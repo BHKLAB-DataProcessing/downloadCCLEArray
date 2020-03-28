@@ -1,4 +1,3 @@
-library(PharmacoGxPrivate)
 library(readr)
 library(tximport)
 library(rhdf5)
