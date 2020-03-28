@@ -6,7 +6,7 @@ library(readxl)
 library(openxlsx)
 library(CoreGx)
 library(affy)
-library(genefu)
+
 
 
 require(downloader)
